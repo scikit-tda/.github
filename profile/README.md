@@ -1,12 +1,12 @@
 # Scikit-TDA
 
-Scikit-TDA is a home for Topological Data Analysis libraries in python. Our intention is 
+Scikit-TDA is a home for Topological Data Analysis (TDA) libraries in python. Our intention is 
 to help non-topologists get started and gain intuition with a variety of notebooks and tutorials. 
 Our aim is to provide a library of TDA tools in python that are widely useable and easily approachable.
 
 ## Libraries
 
-Scikit-TDA consists of a variety of packages with efficient and optimzied implementations of commonly used TDA algorithms.
+Scikit-TDA consists of a variety of packages with efficient and optimized implementations of commonly used TDA algorithms.
 - [ripser.py](https://github.com/scikit-tda/ripser.py): A lean persistent homology library for python based on [ripser](https://github.com/Ripser/ripser).
 - [kepler-mapper](https://github.com/scikit-tda/kepler-mapper): A flexible python implementation of the Mapper algorithm.
 - [persim](https://github.com/scikit-tda/persim): Distances and representations of persistence diagrams.
